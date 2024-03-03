@@ -1,4 +1,5 @@
 # Outing BD Tour and Travel Website
+This is my University project.Team of Shihab Uddin, MD. Abir Hossain , MD. Shariful Islam and Shahriar Ahamed Sifat.
 
 Outing BD is a web platform designed for travel enthusiasts, offering information and guides for various destinations. Users can easily book tour packages along with guides, ensuring a seamless travel experience.
 
@@ -13,6 +14,7 @@ Outing BD is a web platform designed for travel enthusiasts, offering informatio
 - **Dark and Light Mode:** Personalize your browsing experience with the option to switch between dark and light modes, providing comfort and convenience at any time.
 
 - **Cart Functionality:** Easily add tour packages to your cart for a convenient overview of selected destinations. This feature allows users to plan and review their chosen options before finalizing bookings.
+
 
 ## Live Website
 
